@@ -1,0 +1,214 @@
+.menu{
+	background-color: #000000;
+	display: block;
+	margin-top: -20px;
+	overflow: hidden;
+
+
+}
+.header{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.header img{
+	margin-top: 20px;
+}
+.menu img{
+	width: 120px;
+	float: left;	
+}
+.nav{
+  	width: 100%;
+  	height: 70px;	
+  	margin-left: 100px;
+	margin-right: 100px;
+}
+.nav ul{
+	list-style: none;
+	flex-wrap: wrap;
+}
+.nav ul li{
+	float: left;
+	line-height: 65px;
+}
+.nav ul li a{
+	float: left;
+	width: 100px;
+	display: block;
+	text-align: center;
+	color: white;
+	text-decoration: none;
+
+}
+form{
+	margin-left: 40px;
+	margin-right: 40px;
+	margin-top: 25px;
+	float: left;
+	background-image: url(../images/cari.png);
+	background-repeat: no-repeat;
+	padding-left: 20px !important;
+	
+	
+}
+.menu .icon img{
+	width: 30px;
+	float: left;
+	height: 40px;
+	margin-right: 20px;
+}
+.menu2{
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 70px;
+	overflow: hidden;
+	display: block;
+}
+.ori{
+	float: left;
+	font-size: 10px;
+}
+.ori a{
+	text-decoration: none;
+	color: black;
+}
+.text{
+	margin-right: 30px;
+}
+.diskon{
+	background: #7d7d7d;
+	width: 220px;
+	margin-left: 30px;
+	margin-top: 20px;
+	border-radius: 5px;
+}
+.diskon a{
+	text-decoration: none;
+	color: white;
+	font-size: 10px;
+	float: left;
+	margin-top: 10px;
+}
+.diskon img{
+
+}
+.bd{
+	margin-left: 200px;
+	margin-right: 200px;
+	background-image: url(../images/bg2.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.txt{
+	color: blue;
+}
+.kiri a{
+	text-decoration: none;
+	color: black;
+	float: left;
+	margin-top: 150px;
+}
+.kanan a{
+	text-decoration: none;
+	color: black;
+	float: right;
+	margin-top: 150px; 
+}
+.pisah{
+
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 50px;
+	background: #000000;
+}
+.pisah_bd {
+
+	float: left;
+	font-size: 10px;
+	margin-left: 80px;
+	margin-top: 10px;
+}
+.pisah a{
+
+	text-decoration: none;
+	color: white;
+}
+.bd2{
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 30px;
+}
+.batas{
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 50px;
+	background: #ff4803;
+}
+.batas_bd{
+	float: left;
+	font-size: 10px;
+	margin-left: 80px;
+	margin-top: 10px;
+}
+.batas img{
+	width: 80px;
+	float: left;
+	margin-left: 20px;
+}
+.batas h5{
+	float: left;
+	color: white;
+	margin-left: 160px;
+
+}
+.batas a{
+	text-decoration: none;
+	color: white;
+	margin-left: 250px;
+
+}
+.brand{
+	margin-left: 200px;
+	margin-right: 200px;
+}
+.brand h2{
+	text-align: center;
+}
+.brand img{
+	 width: 130px;
+     height: 100px;
+     border-radius: 10px;
+     margin: 20px 20px;
+        
+}
+.new{
+	margin-left: 200px;
+	margin-right: 200px;
+	height: 50px;
+	margin-top: 50px;
+
+}
+.new h2{
+	text-align: center;
+}
+.new .model1{
+	width: 250px;
+	float: left;
+}
+.new .model2{
+	width: 250px;
+	float: left;
+	margin-left: 50px;
+}
+.new .model3{
+	width: 250px;
+	float: left;
+	margin-left: 50px;	
+}
+.new img{
+	width: 250px;
+	height: 250px;
+}
+.new h4{
+	text-align: center;
+}
