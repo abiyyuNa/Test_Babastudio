@@ -1,0 +1,27 @@
+.layout1{
+	margin-left: 180px;
+	margin-right: 400px;
+	background-color: #9168b3;
+	height: 100px;
+}
+p{
+	text-align: left;
+}
+.layout2{
+	margin-left: 280px;
+	margin-right: 270px;
+	background-color: #a8b368;
+	height: 100px;	
+}
+.layout3{
+	margin-left: 180px;
+	margin-right: 400px;
+	background-color: #b36c68;
+	height: 100px;	
+}
+.layout4{
+	margin-left: 280px;
+	margin-right: 270px;
+	background-color: #636363;
+	height: 100px;	
+}
